@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kawach</string>
+    <string name="kawachTitle">कवच</string>
+    <string name="todo">TODO</string>
+    <string name="heart">❤</string>
+    <string name="made_in_india_with">Made in India with</string>
+    <string name="the_app_needs_following_permission_for_effective_working">The app needs following permission for effective working :</string>
+    <string name="bluetooth">BLUETOOTH</string>
+    <string name="bluetooth_tells_you_who_is_near_you_and_can_help_detect_covid_19_patients_nearby">Bluetooth tells you who is near you and can help detect COVID-19 patients nearby.</string>
+    <string name="location">LOCATION</string>
+    <string name="location_helps_in_telling_you_more_about_your_surrounding">Location helps in telling you more about your surrounding.</string>
+    <string name="button">Button</string>
+    <string name="i_agree_to_the_share_my_data_as_per_t_c">I agree to the share my data as per T and C.</string>
+    <string name="agree_continue">Agree and Continue</string>
+    <string name="verify">Verify</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="request_verificaton_code">Request Verificaton Code</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="_91">+91</string>
+    <string name="value91">91</string>
+    <string name="made_in_sigmahacks_2_0">Made in SigmaHacks 2.0</string>
+    <string name="complete_your_profile">Complete Your Profile</string>
+    <string name="update">Update</string>
+    <string name="mac">MAC</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="name">Name</string>x
+</resources>

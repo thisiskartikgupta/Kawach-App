@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372061744342",
+    "firebase_url": "https://kawach-e0a85.firebaseio.com",
+    "project_id": "kawach-e0a85",
+    "storage_bucket": "kawach-e0a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372061744342:android:e21eceba566588db362d77",
+        "android_client_info": {
+          "package_name": "com.tikg.kawach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372061744342-iserhcs6jarun1u76set1r6p0nvaj311.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tikg.kawach",
+            "certificate_hash": "39681b749165cbe17dac73d712b851b996f8d62e"
+          }
+        },
+        {
+          "client_id": "372061744342-rc7onrguk00dvp31d2v9d906nsb216q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIr76NOV3IMIdfCB-LarUm9ySyPMASvOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372061744342-rc7onrguk00dvp31d2v9d906nsb216q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
