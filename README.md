@@ -6,7 +6,7 @@ Greetings from  __Team Cyphers__,
 
 ##### We are very delighted to present our idea in _HCL Better Health Hackathon_, hope you like it. Our idea Kawach is an _android/iOS_ app that can act as a shield in this Pandemic and even post-pandemic situation.
 
-<img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/PNG-HD.png" height=200 width=200></img>
+<img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/Android-PNG-HD.png" height=200 width=200></img>
 <img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/pngegg.png" height=200 width=200></img>
 
 Our app focusses on easing out the pandemic’s issue, i.e, promoting social distancing, give an update to everyone with their surroundings, providing Augmented Reality(AR) immersive experience in order to avoid contact. Moreover, the app will also help the authorities to trace the COVID spread. Our app requires basic permissions like Bluetooth, device location to work to its maximum potential. The camera permission will also provide users with enhanced AR experience to maintain social distancing while they go out.  
