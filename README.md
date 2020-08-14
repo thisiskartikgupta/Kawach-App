@@ -48,8 +48,4 @@ The users can also give feedback, take a survey about his infection status, and 
 3. __Kushagra Goel__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="http://www.github.com/kushagra-0-1">Github</a> <a href="https://www.linkedin.com/in/kushagra-goel-24d/">Linkedin</a>
 4. __Saurabh Chaudhary__  &nbsp;<a href="http://www.github.com/saurabhcr007">Github</a> <a href="https://www.linkedin.com/in/saurabh-chaudhary-021902194/">Linkedin</a>
 
-## Tap the icon to watch our illustrative video:
-
-<a href="https://youtu.be/cp5zD8FmDN8"> <img src="https://github.com/deepakchaturvedifzd/SigmaHacks2.0-Kawach-/blob/master/md/YouTube.png" height=100 width=100></img> </a>
-
 ---
