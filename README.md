@@ -25,8 +25,8 @@ First of all, let’s dive into KawachAR powered by echoAR SDK to provide a more
 
 The Stores feature of our app helps in linking people with their nearby stores to help local businesses who have incurred losses in these times. So people can avoid contacts and queues. We can also keep track of the open/close status of our local stores and whether they provide home delivery or not.
 
-<img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/shop1.png" height=450 width=250 hspace=10></img>
-<img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/shop2.png" height=450 width=250 hspace=10></img>
+<img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/shop01.png" height=450 width=250 hspace=10></img>
+<img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/md/shop02.png" height=450 width=250 hspace=10></img>
 
 ---
 
