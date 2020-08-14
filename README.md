@@ -1,6 +1,6 @@
 # HCL Better Health Hackathon
 ---
-Greetings from  __Team Cyphers__,
+Greetings from  __Team Cypher__,
 
 <img src="https://github.com/thisiskartikgupta/Kawach-App/blob/master/Kawach/app/src/main/res/drawable/logokavach.png" height=200 width=200></img>
 
