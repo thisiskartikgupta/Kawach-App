@@ -44,7 +44,7 @@ The users can also give feedback, take a survey about his infection status, and 
 
 ## Meet our team :
 1. __Deepak Chaturvedi__ &nbsp; <a href="http://www.github.com/deepakchaturvedifzd">Github</a> <a href="https://www.linkedin.com/in/deepak-chaturvedi-467a9b194/">Linkedin</a>
-2. __Kartik Gupta__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.github.com/thisiskartikgupta">Github</a> <a href="https://www.linkedin.com/in/thisiskartikgupta/">Linkedin</a>
+2. __Kartik Gupta__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.github.com/thisiskartikgupta">Github</a> <a href="https://www.linkedin.com/in/-guptakartik/">Linkedin</a>
 3. __Kushagra Goel__ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="http://www.github.com/kushagra-0-1">Github</a> <a href="https://www.linkedin.com/in/kushagra-goel-24d/">Linkedin</a>
 4. __Saurabh Chaudhary__  &nbsp;<a href="http://www.github.com/saurabhcr007">Github</a> <a href="https://www.linkedin.com/in/saurabh-chaudhary-021902194/">Linkedin</a>
 
